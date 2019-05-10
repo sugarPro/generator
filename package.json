@@ -1,0 +1,20 @@
+{
+  "name": "generator",
+  "version": "1.0.0",
+  "description": "learn generators",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "generator",
+    "co"
+  ],
+  "author": "winter",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-typescript": "^5.0.1",
+    "typescript": "^3.4.5"
+  }
+}
